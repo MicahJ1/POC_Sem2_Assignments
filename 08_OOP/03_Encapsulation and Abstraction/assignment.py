@@ -13,6 +13,9 @@ class Rectangle:
     def get_height(self) -> float:
         return self.__height
     
+    def get_base(self) -> float:
+        return self.__base
+
     #YOUDO the get_base method
     
     def get_perimeter(self) -> float:
